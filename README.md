@@ -1,6 +1,6 @@
 # NASA Mission Control Dashboard
 
-A MERN full-stack project simulating NASA mission control operations with NASA and SpaceX API data. Dockerized and deployed on AWS EC2 for a scalable, production-ready setup using Node.js and MongoDB.
+A MERN full-stack project simulating NASA mission control operations with NASA and SpaceX API data. Dockerized and deployed on AWS EC2 for a scalable, production-ready setup, and enabling real-time mission monitoring.
 
 
 ---
